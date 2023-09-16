@@ -1,56 +1,128 @@
 [
-  {
-    "name": "Girl 1",
-    "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/1.jpg",
-    "collections": "Girl",
-    "author": "Rajnish"
-  },
-  {
-    "name": "Girl 2",
-    "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/2.jpg",
-    "collections": "Girl",
-    "author": "Rajnish"
-  },
-  {
-    "name": "Girl 3",
-    "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/3.jpg",
-    "collections": "Girl",
-    "author": "Rajnish"
-  },
-  {
-    "name": "Girl 4",
-    "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/4.jpg",
-    "collections": "Girl",
-    "author": "Rajnish"
-  },
-  {
-    "name": "Girl 5",
-    "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/5.jpg",
-    "collections": "Girl",
-    "author": "Rajnish"
-  },
-  {
-    "name": "Floral 1",
-    "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/6.png",
-    "collections": "Floral",
-    "author": "Rajnish"
-  },
-  {
-    "name": "Floral 2",
-    "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/7.png",
-    "collections": "Floral",
-    "author": "Rajnish"
-  },
-  {
-    "name": "Floral 3",
-    "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/8.png",
-    "collections": "Floral",
-    "author": "Rajnish"
-  },
-  {
-    "name": "Floral 4",
-    "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/9.png",
-    "collections": "Floral",
-    "author": "Rajnish"
-  }
+    {
+      "name": "Girl 1",
+      "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/1.jpg",
+      "collections": "Girl",
+      "author": "Rajnish"
+    },
+    {
+      "name": "Girl 2",
+      "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/2.jpg",
+      "collections": "Girl",
+      "author": "Rajnish"
+    },
+    {
+      "name": "Girl 3",
+      "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/3.jpg",
+      "collections": "Girl",
+      "author": "Rajnish"
+    },
+    {
+      "name": "Girl 4",
+      "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/4.jpg",
+      "collections": "Girl",
+      "author": "Rajnish"
+    },
+    {
+      "name": "Girl 5",
+      "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/5.jpg",
+      "collections": "Girl",
+      "author": "Rajnish"
+    },
+    {
+      "name": "Floral 1",
+      "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/6.png",
+      "collections": "Floral",
+      "author": "Rajnish"
+    },
+    {
+      "name": "Floral 2",
+      "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/7.png",
+      "collections": "Floral",
+      "author": "Rajnish"
+    },
+    {
+      "name": "Floral 3",
+      "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/8.png",
+      "collections": "Floral",
+      "author": "Rajnish"
+    },
+    {
+      "name": "Floral 4",
+      "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/9.png",
+      "collections": "Floral",
+      "author": "Rajnish"
+    },
+    {
+        "name": "3D Animal 1",
+        "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/10.png",
+        "collections": "3D Animal",
+        "author": "Rajnish"
+    },
+    {
+        "name": "3D Animal 2",
+        "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/11.png",
+        "collections": "3D Animal",
+        "author": "Rajnish"
+    },
+    {
+        "name": "3D Animal 3",
+        "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/12.png",
+        "collections": "3D Animal",
+        "author": "Rajnish"
+    },
+    {
+        "name": "3D Animal 4",
+        "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/13.png",
+        "collections": "3D Animal",
+        "author": "Rajnish"
+    },
+    {
+        "name": "3D Animal 5",
+        "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/14.png",
+        "collections": "3D Animal",
+        "author": "Rajnish"
+    },
+    {
+        "name": "3D Animal 6",
+        "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/17.png",
+        "collections": "3D Animal",
+        "author": "Rajnish"
+    },
+    {
+        "name": "3D Bird 1",
+        "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/15.png",
+        "collections": "3D Bird",
+        "author": "Rajnish"
+    },
+    {
+        "name": "3D Bird 2",
+        "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/16.png",
+        "collections": "3D Bird",
+        "author": "Rajnish"
+    },
+    {
+        "name": "3D Bird 3",
+        "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/21.png",
+        "collections": "3D Bird",
+        "author": "Rajnish"
+    },
+    {
+        "name": "3D Character 1",
+        "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/19.png",
+        "collections": "3D Character",
+        "author": "Rajnish"
+    },
+    {
+        "name": "3D Character 2",
+        "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/20.png",
+        "collections": "3D Character",
+        "author": "Rajnish"
+    },
+    {
+        "name": "3D Character 3",
+        "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/18.png",
+        "collections": "3D Character",
+        "author": "Rajnish"
+    }
 ]
