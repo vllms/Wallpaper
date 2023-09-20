@@ -124,5 +124,71 @@
         "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/18.png",
         "collections": "3D Character",
         "author": "Rajnish"
+    },
+    {
+        "name": "Illustration 1",
+        "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/img1.jpg",
+        "collections": "Illustration",
+        "author": "Rajnish"
+    },
+    {
+        "name": "Illustration 2",
+        "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/img2.jpg",
+        "collections": "Illustration",
+        "author": "Rajnish"
+    },
+    {
+        "name": "Illustration 3",
+        "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/img3.jpg",
+        "collections": "Illustration",
+        "author": "Rajnish"
+    },
+    {
+        "name": "Illustration 4",
+        "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/img4.jpg",
+        "collections": "Illustration",
+        "author": "Rajnish"
+    },
+    {
+        "name": "Nature 1",
+        "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/img5.jpg",
+        "collections": "Nature",
+        "author": "Rajnish"
+    },
+    {
+        "name": "Nature 2",
+        "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/img6.jpg",
+        "collections": "Nature",
+        "author": "Rajnish"
+    },
+    {
+        "name": "Illustration 5",
+        "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/img7.jpg",
+        "collections": "Illustration",
+        "author": "Illustration"
+    },
+    {
+        "name": "Illustration 6",
+        "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/img8.jpg",
+        "collections": "Illustration",
+        "author": "Rajnish"
+    },
+    {
+        "name": "Nature 3",
+        "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/img9.jpg",
+        "collections": "Nature",
+        "author": "Rajnish"
+    },
+    {
+        "name": "Nature 4",
+        "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/img10.jpg",
+        "collections": "Nature",
+        "author": "Rajnish"
+    },
+    {
+        "name": "Nature 5",
+        "url": "https://raw.githubusercontent.com/vllms/Wallpaper/main/Wallpaper/img10.jpg",
+        "collections": "Nature",
+        "author": "Rajnish"
     }
 ]
